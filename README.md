@@ -11,6 +11,8 @@ A simple and customizable **Password generator** built with HTML, CSS and JavaSc
   - Adjustable password length
 ### Website looks like
 ![passwordgenerator](Homepage.png)
+## Hosted using Render
+- Link to site - https://password-generator-t1di.onrender.com
 ## How to Use
 Clone or download this repository:
 ```bash
